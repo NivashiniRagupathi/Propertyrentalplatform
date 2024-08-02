@@ -31,8 +31,8 @@ This project is a property rental platform built with React. It allows users to 
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/property-rental-platform.git
-    cd property-rental-platform
+    git clone https://github.com/NivashiniRagupathi/Propertyrentalplatform
+    cd Propertyrentalplatform
     ```
 
 2. Install dependencies:
