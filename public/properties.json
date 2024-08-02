@@ -1,0 +1,152 @@
+[
+    {
+      "id": 1,
+      "title": "Cozy Beach Cottage",
+      "description": "A charming beach cottage just steps from the sand. Ideal for a relaxing vacation.",
+      "price": 30000,
+      "location": "Chennai",
+      "numberOfBedrooms": 2,
+      "amenities": ["Wi-Fi", "Beach Access", "Air Conditioning", "Parking"],
+      "image": "https://i.postimg.cc/mgmwCcFf/Screenshot-2024-07-31-195623.png"
+    },
+    {
+      "id": 2,
+      "title": "Luxurious Mountain Lodge",
+      "description": "Enjoy stunning mountain views and upscale amenities in this luxurious lodge.",
+      "price": 50000,
+      "location": "Ooty",
+      "numberOfBedrooms": 4,
+      "amenities": ["Hot Tub", "Fireplace", "Wi-Fi", "Pet-Friendly"],
+      "image": "https://i.postimg.cc/MGFX7wDp/Screenshot-2024-07-31-200016.png"
+    },
+    {
+      "id": 3,
+      "title": "Modern Urban Loft",
+      "description": "Stylish loft in the heart of the city with easy access to shopping and dining.",
+      "price": 8000,
+      "location": "Coimbatore",
+      "numberOfBedrooms": 2,
+      "amenities": ["Gym Access", "Wi-Fi", "Air Conditioning", "Parking"],
+      "image": "https://i.postimg.cc/fRkVJkcr/Screenshot-2024-07-31-200251.png"
+    },
+    {
+      "id": 4,
+      "title": "Historic Downtown Apartment",
+      "description": "Elegant apartment in a historic building, close to cultural attractions and restaurants.",
+      "price": 20000,
+      "location": "Coimbatore",
+      "numberOfBedrooms": 3,
+      "amenities": ["Wi-Fi", "Cable TV", "Washer/Dryer", "Parking"],
+      "image": "https://i.postimg.cc/Ghv4D6Vk/Screenshot-2024-07-31-200525.png"
+    },
+    {
+      "id": 5,
+      "title": "Charming Countryside Cabin",
+      "description": "Relax in a rustic cabin surrounded by nature, perfect for a quiet getaway.",
+      "price": 14000,
+      "location": "Chennai",
+      "numberOfBedrooms": 2,
+      "amenities": ["Wi-Fi", "Fireplace", "BBQ Grill", "Parking"],
+      "image": "https://i.postimg.cc/fbSkvLRg/Screenshot-2024-07-31-200756.png"
+    },
+    {
+      "id": 6,
+      "title": "Sleek Modern Home",
+      "description": "Contemporary home with high-end finishes and a private pool. Great for families.",
+      "price": 22000,
+      "location": "Coimbatore",
+      "numberOfBedrooms": 4,
+      "amenities": ["Pool", "Wi-Fi", "Air Conditioning", "Parking"],
+      "image": "https://i.postimg.cc/GhMwzntW/Screenshot-2024-07-31-203547.png"
+    },
+    {
+      "id": 7,
+      "title": "Secluded Lakehouse",
+      "description": "Peaceful lakehouse with beautiful views and easy access to water activities.",
+      "price": 20000,
+      "location": "Goa",
+      "numberOfBedrooms": 3,
+      "amenities": ["Boat Dock", "Wi-Fi", "Fireplace", "Parking"],
+      "image": "https://i.postimg.cc/qv8StNSx/Screenshot-2024-07-31-203756.png"
+    },
+    {
+      "id": 8,
+      "title": "Elegant Penthouse Suite",
+      "description": "Luxurious penthouse with panoramic city views and top-notch amenities.",
+      "price": 35000,
+      "location": "Coimbatore",
+      "numberOfBedrooms": 3,
+      "amenities": ["Private Rooftop", "Wi-Fi", "Gym Access", "Parking"],
+      "image": "https://i.postimg.cc/mgsz3npW/Screenshot-2024-07-31-203932.png"
+    },
+    {
+      "id": 9,
+      "title": "Cozy Studio Apartment",
+      "description": "Compact and stylish studio apartment, perfect for solo travelers or couples.",
+      "price": 10000,
+      "location": "Chennai",
+      "numberOfBedrooms": 1,
+      "amenities": ["Wi-Fi", "Air Conditioning", "Parking"],
+      "image": "https://i.postimg.cc/brn0rtrx/Screenshot-2024-07-31-204132.png"
+    },
+    {
+      "id": 10,
+      "title": "Rustic Farmhouse Retreat",
+      "description": "Charming farmhouse with ample space and a large yard for outdoor activities.",
+      "price": 18000,
+      "location": "Kerla",
+      "numberOfBedrooms": 4,
+      "amenities": ["Wi-Fi", "BBQ Grill", "Fireplace", "Parking"],
+      "image": "https://i.postimg.cc/d07jppFN/Screenshot-2024-07-31-204308.png"
+    },
+    {
+      "id": 11,
+      "title": "Beachfront Condo",
+      "description": "Enjoy direct access to the beach and stunning ocean views from this modern condo.",
+      "price": 25000,
+      "location": "Goa",
+      "numberOfBedrooms": 2,
+      "amenities": ["Beach Access", "Wi-Fi", "Pool", "Parking"],
+      "image": "https://i.postimg.cc/bJ1nxj0b/Screenshot-2024-07-31-204517.png"
+    },
+    {
+      "id": 12,
+      "title": "Chic Downtown Loft",
+      "description": "Stylish loft located in the vibrant downtown area, close to nightlife and attractions.",
+      "price": 17000,
+      "location": "Coimbatore",
+      "numberOfBedrooms": 2,
+      "amenities": ["Wi-Fi", "Gym Access", "Air Conditioning", "Parking"],
+      "image": "https://i.postimg.cc/yxYFsb9Z/Screenshot-2024-07-31-204637.png"
+    },
+    {
+      "id": 13,
+      "title": "Luxury Villa with Pool",
+      "description": "Opulent villa with a private pool and exquisite interiors, ideal for a high-end vacation.",
+      "price": 30000,
+      "location": "Kerala",
+      "numberOfBedrooms": 5,
+      "amenities": ["Pool", "Wi-Fi", "Gym", "Parking"],
+      "image": "https://i.postimg.cc/tgNkbPf8/Screenshot-2024-07-31-204856.png"
+    },
+    {
+      "id": 14,
+      "title": "Sunny Desert Retreat",
+      "description": "Modern retreat with desert views and a private outdoor area for relaxation.",
+      "price": 16000,
+      "location": "Chennai",
+      "numberOfBedrooms": 3,
+      "amenities": ["Wi-Fi", "BBQ Grill", "Fireplace", "Parking"],
+      "image": "https://i.postimg.cc/28dwpMt2/Screenshot-2024-07-31-205033.png"
+    },
+    {
+      "id": 15,
+      "title": "Stylish Riverside Apartment",
+      "description": "Contemporary apartment with beautiful river views and easy access to city attractions.",
+      "price": 29000,
+      "location": "Ooty",
+      "numberOfBedrooms": 2,
+      "amenities": ["Wi-Fi", "Air Conditioning", "Parking", "Balcony"],
+      "image": "https://i.postimg.cc/x1J1NVSP/Screenshot-2024-07-31-205148.png"
+    }
+  ]

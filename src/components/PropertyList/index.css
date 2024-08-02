@@ -1,0 +1,57 @@
+.property {
+    width: 90%;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    box-shadow: 0px 12px 12px 0px #ebeced;
+    padding: 20px;
+}
+
+@media screen and (min-width: 568px) and (max-width: 768px){
+    .property{
+        width: 40%;
+    }
+}
+
+@media screen and (min-width: 768px){
+    .property{
+        width: 300px;
+    }
+}
+
+.property-image {
+    width: 90%;
+}
+
+@media screen and (min-width: 568px) and (max-width: 768px){
+    .property-image{
+        width: 40%;
+    }
+}
+
+@media screen and (min-width: 768px){
+    .property-image{
+        width: 250px;
+        height: 250px;
+    }
+}
+
+.property-title {
+    font-size: 20px;
+}
+.property-desc {
+    font-size: 16px;
+    color: #363738;
+}
+
+.property-span {
+    color: #898b8f;
+}
+
+.book-btn{
+    background-color: #4562f5;
+    border: none;
+    color: #ffffff;
+    border-radius: 10px;
+    height: 40px;
+    width: 100px;
+}
