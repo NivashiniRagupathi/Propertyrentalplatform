@@ -6,6 +6,7 @@ This project is a property rental platform built with React. It allows users to 
 
 - [Features](#features)
 - [Technologies Used](#technologies-used)
+- [Installation](#installation)
 - [Usage](#usage)
 
 ## Features
@@ -25,6 +26,26 @@ This project is a property rental platform built with React. It allows users to 
 - **CSS**: For styling components.
 - **Fetch API**: To fetch property data from a JSON file.
 - **HTML**: Basic markup for the application.
+
+## Installation
+
+1. Clone the repository:
+    ```sh
+    git clone https://github.com/your-username/property-rental-platform.git
+    cd property-rental-platform
+    ```
+
+2. Install dependencies:
+    ```sh
+    npm install
+    ```
+
+3. Start the development server:
+    ```sh
+    npm start
+    ```
+
+The application will run at `http://localhost:3000`.
 
 ## Usage
 
